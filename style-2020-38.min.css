@@ -1,20 +1,3 @@
-/*@charset "UTF-8";@font-face{font-family:droid_arabic_naskh_regular;font-style:normal;font-weight:400;src:url(fonts/droidnaskh-regular-webfontd41d.eot#iefix) format("embedded-opentype"),url(fonts/droidnaskh-regular-webfont.woff2) format("woff2"),url(fonts/droidnaskh-regular-webfont.woff) format("woff"),url(fonts/droidnaskh-regular-webfont.html) format("truetype"),url(fonts/droidnaskh-regular-webfont.svg#droid_arabic_naskhregular) format("svg")}
-a,abbr,acronym,address,applet,b,big,blockquote,body,caption,center,cite,code,dd,del,dfn,div,dl,dt,em,fieldset,font,form,h1,h2,h3,h4,h5,h6,html,i,iframe,img,ins,kbd,label,legend,li,object,ol,p,pre,q,s,samp,small,span,strike,strong,sub,sup,table,tbody,td,tfoot,th,thead,tr,tt,u,ul,var{border:0 none;outline:0 none;vertical-align:baseline;background:none repeat scroll 0 0 transparent}
-*{margin:0;padding:0;box-sizing:border-box;direction:rtl}
-body{background:#e0e0e0}
-::-moz-selection{background:#0ff;color:#000}
-::selection{background:#0ff;color:#000}
-#logo{display:block;padding:0 13px;line-height:46px}
-#logo a{font-family:Helvetica,Arial,Sans-Serif;font-size:18px;color:#fff;-webkit-transition:all .3s;-moz-transition:all .3s;-o-transition:all .3s;transition:all .3s}
-#logo a:hover{color:#0ff!important}
-*/
-#hea11der{position:fixed;display:block;background:#333;height:50px;width:100%;top:0;z-index:2;border-top:4px solid #000}
-#hea11der ul{display:block;max-width:1310px;height:50px;list-style-type:none;margin:0 auto}
-#h11eader ul li{float:right;display:none;height:46px;text-decoration:none;color:#fff;text-align:center;padding:0 13px;font-family:droid_arabic_naskh_regular;font-size:16px;-webkit-transition:all .3s;-moz-transition:all .3s;-o-transition:all .3s;transition:all .3s}
-#bl11og{padding:0!important}
-#bl11og a{color:#fff;-webkit-transition:all .3s;-moz-transition:all .3s;-o-transition:all .3s;transition:all .3s;line-height:46px;display:block;padding:0 13px}
-#bl11og a:hover,#ho11me:hover,#library:hover,#menu:hover,#search:hover{background-color:#000;color:#0ff!important;cursor:pointer}
-#hea11der ul li img{height:46px;max-width:100%}
 .opened-menu{background:#000;color:#0ff!important}
 #bl11og a,#library{line-height:46px}
 #top_ads{max-width:100%;margin:20px auto;overflow-x:auto;overflow-y:hidden;display:block;text-align:center}
@@ -63,6 +46,7 @@ body{background:#e0e0e0}
 #library_box ul li a span{direction:rtl;color:#06f;font-family:droid_arabic_naskh_regular;font-size:22px;padding-left:10px}
 #library_box ul li a img{float:right;padding-left:5px;height:50px}
 #___gcse_0{max-width:400px!important;margin:auto!important}
+/*
 .gsc-search-box{float:right;direction:rtl}
 .cse .gsc-control-cse,.gsc-control-cse{background-color:#f1f1f1!important;border:1px solid #f1f1f1!important}
 .gsc-clear-button{display:none!important}
@@ -70,6 +54,7 @@ table.gsc-search-box td{vertical-align:top!important}
 .cse .gsc-search-button-v2,.gsc-search-button-v2{padding:0 15px!important;margin-top:5px!important;height:40px!important;line-height:43px!important}
 .gsc-search-button{font-size:16px!important;font-family:droid_arabic_naskh_regular!important;font-weight:400!important}
 table.gsc-search-box td.gsc-input{padding:5px 0!important}
+*/
 #side_nav .title{display:block;margin-bottom:1px;font-family:droid_arabic_naskh_regular;height:45px;line-height:45px;font-size:15px;cursor:default;color:#fff;padding-right:14px;background:#545454;border-top-right-radius:5px;border-top-left-radius:25px;border-bottom-right-radius:14px;border-bottom-left-radius:7px;margin-top:6px;margin-bottom:6px}
 #side_nav ul{display:block;list-style-type:none;list-style-position:inside;width:98%;margin:0 auto}
 #side_nav ul li{display:block;color:#000}
@@ -254,24 +239,6 @@ ol.EnlighterJS li,ul.EnlighterJS li{white-space:pre!important;background-color:#
 #shortcuts span.EnlighterJS{border:none!important}
 article p span.enlighterEnlighterJS{background:#ced8f6!important;border:none!important}
 /*
-#ads_alert{display:none;line-height:36px;font-size:15px;font-family:droid_arabic_naskh_regular;text-align:center;width:100%;height:100%;position:fixed;top:0;left:0;overflow:hidden;background:rgba(0,0,0,.6);z-index:3;box-shadow:0 0 10px #a9a9a9}
-#ads_alert .white-container{max-width:900px;border:2px solid gray;padding:25px 20px;overflow-y:auto;direction:ltr;background:#f1f1f1}
-#ads_alert .white-container div{margin:0 auto 20px auto;border-radius:8px;max-width:700px}
-#ads_alert h3{margin-bottom:20px}
-#ads_alert .red-box{color:#721c24;background:#f8d7da;padding:10px}
-#ads_alert .red-box img{width:58px;margin-top:7px}
-#ads_alert .green-box{background-color:#d4edda;color:#155724;padding:10px}
-#ads_alert .blue-box{background:#dcdcdc;color:#383d41;padding:10px}
-#ads_alert h3{margin-bottom:12px;margin-top:14px;font-size:17px}
-.ads-close-btn{text-decoration:none;background-color:#17a2b8;border-color:#17a2b8;color:#fff;display:inline-block;padding:5px 20px;font-size:15px;border-radius:5px;margin-top:3px;-webkit-transition:all .2s;-moz-transition:all .2s;-o-transition:all .2s;transition:all .2s;cursor:pointer;box-shadow:1px 4px 5px #aaa}
-.ads-close-btn:hover{background-color:#0b7181;opacity:.8}
-#loader_box{margin:40px 0;text-align:center}
-.lds-facebook{display:inline-block;position:relative;width:64px;height:64px}
-.lds-facebook div{display:inline-block;position:absolute;left:6px;width:13px;background:#004481;animation:lds-facebook 1.2s cubic-bezier(0,.5,.5,1) infinite}
-.lds-facebook div:nth-child(1){left:6px;animation-delay:-.24s}
-.lds-facebook div:nth-child(2){left:26px;animation-delay:-.12s}
-.lds-facebook div:nth-child(3){left:45px;animation-delay:0}
-@keyframes lds-facebook{0%{top:6px;height:61px}100%,50%{top:19px;height:26px}}
 */
 .responsive-table{overflow-x:auto;border:1px solid #bbb!important;border-radius:5px}
 .responsive-table table{border-collapse:collapse;border-spacing:0;width:100%}
