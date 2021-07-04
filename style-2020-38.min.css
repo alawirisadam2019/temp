@@ -165,7 +165,7 @@ table.list .word{background-color:transparent}
 table.list .code-title{display:block;padding:6px;border-radius:2px;direction:ltr;text-align:left;font-weight:700;font-size:16px;margin-bottom:10px;font-family:Helvetica,Arial,Sans-Serif}
 .note{color:red;font-weight:700}
 .note-title{color:red;margin-top:5px;font-size:17px;display:block;text-align:right;font-family:droid_arabic_naskh_regular}
-.note-box{width:100%;border:1px solid #d4d4d4;background-color:#ffffa3;border-radius:6px;margin-bottom:20px;padding:2px 17px;direction:rtl;font-size:14px;font-family:droid_arabic_naskh_regular;line-height:32px}
+.note-box{width:100%;border:1px solid #d4d4d4;background-color:#ffffff;border-radius:6px;margin-bottom:20px;padding:2px 17px;direction:rtl;font-size:14px;font-family:droid_arabic_naskh_regular;line-height:32px}
 .note-box ol,.note-box ul{margin-top:-10px;margin-bottom:10px}
 .shortcuts-title{display:block;text-align:right;font-weight:700;margin-bottom:20px;font-size:1.2em}
 #shortcuts{padding:10px 15px;margin:10px auto}
@@ -253,6 +253,7 @@ ol.EnlighterJS li,ul.EnlighterJS li{white-space:pre!important;background-color:#
 #shortcuts span.enlighterEnlighterJS{background:#FA8258!important}
 #shortcuts span.EnlighterJS{border:none!important}
 article p span.enlighterEnlighterJS{background:#ced8f6!important;border:none!important}
+/*
 #ads_alert{display:none;line-height:36px;font-size:15px;font-family:droid_arabic_naskh_regular;text-align:center;width:100%;height:100%;position:fixed;top:0;left:0;overflow:hidden;background:rgba(0,0,0,.6);z-index:3;box-shadow:0 0 10px #a9a9a9}
 #ads_alert .white-container{max-width:900px;border:2px solid gray;padding:25px 20px;overflow-y:auto;direction:ltr;background:#f1f1f1}
 #ads_alert .white-container div{margin:0 auto 20px auto;border-radius:8px;max-width:700px}
@@ -271,6 +272,7 @@ article p span.enlighterEnlighterJS{background:#ced8f6!important;border:none!imp
 .lds-facebook div:nth-child(2){left:26px;animation-delay:-.12s}
 .lds-facebook div:nth-child(3){left:45px;animation-delay:0}
 @keyframes lds-facebook{0%{top:6px;height:61px}100%,50%{top:19px;height:26px}}
+*/
 .responsive-table{overflow-x:auto;border:1px solid #bbb!important;border-radius:5px}
 .responsive-table table{border-collapse:collapse;border-spacing:0;width:100%}
 .responsive-table table th{background-color:#ccc}
