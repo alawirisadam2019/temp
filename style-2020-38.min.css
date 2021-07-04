@@ -12,8 +12,8 @@ body{background:#e0e0e0}
 #hea11der ul{display:block;max-width:1310px;height:50px;list-style-type:none;margin:0 auto}
 #h11eader ul li{float:right;display:none;height:46px;text-decoration:none;color:#fff;text-align:center;padding:0 13px;font-family:droid_arabic_naskh_regular;font-size:16px;-webkit-transition:all .3s;-moz-transition:all .3s;-o-transition:all .3s;transition:all .3s}
 #bl11og{padding:0!important}
-#blog a{color:#fff;-webkit-transition:all .3s;-moz-transition:all .3s;-o-transition:all .3s;transition:all .3s;line-height:46px;display:block;padding:0 13px}
-#blog a:hover,#ho11me:hover,#library:hover,#menu:hover,#search:hover{background-color:#000;color:#0ff!important;cursor:pointer}
+#bl11og a{color:#fff;-webkit-transition:all .3s;-moz-transition:all .3s;-o-transition:all .3s;transition:all .3s;line-height:46px;display:block;padding:0 13px}
+#bl11og a:hover,#ho11me:hover,#library:hover,#menu:hover,#search:hover{background-color:#000;color:#0ff!important;cursor:pointer}
 #hea11der ul li img{height:46px;max-width:100%}
 .opened-menu{background:#000;color:#0ff!important}
 #bl11og a,#library{line-height:46px}
