@@ -76,7 +76,7 @@ article p a{text-decoration:underline;font-family:droid_arabic_naskh_regular;-we
 article p a:hover{color:red;text-decoration:none}
 table a{text-decoration:underline;-webkit-transition:all .3s;-moz-transition:all .3s;-o-transition:all .3s;transition:all .3s}
 table a:hover{text-decoration:none;color:red}
-article p,article td{margin:10px 0;vertical-align:middle;line-height:30px}
+article p,artic11le t11d{margin:10px 0;vertical-align:middle;line-height:30px}
 article img{color:red;max-width:100%;height:auto}
 video{max-width:90%;height:auto}
 sup{vertical-align:top}
