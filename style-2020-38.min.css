@@ -1,5 +1,5 @@
 .ope11ned-menu{background:#000;color:#0ff!important}
-#bl11og a,#library{line-height:46px}
+#bl11og a,#libra11ry{line-height:46px}
 #top_ads{max-width:100%;margin:20px auto;overflow-x:auto;overflow-y:hidden;display:block;text-align:center}
 #conta11iner{visibi11lity:hidden;max-width:1300px;width:100%;margin:0 auto;z-index:1;overflow:hidden;padding-top:50px}
 #side_na11v{display:none;direction:rtl;z-index:1000;background-color:#e0e0e0}
@@ -65,10 +65,10 @@ next-and-previous-lessons a{background:#004481;border-radius:5px;font-size:14px;
 .next-page-text,.previous-page-text{display:inline-block;vertical-align:top;padding-top:8px}
 .next-page .cursor{display:inline-block;direction:rtl;padding-right:10px;font-size:23px}
 .previous-page .cursor{display:inline-block;direction:ltr;padding-left:10px;font-size:23px}
-h1{display:block;text-align:center;font-family:droid_arabic_naskh_regular;font-size:22px;color:#000;direction:rtl;padding-bottom:20px;padding-left:15px;padding-right:15px;line-height:38px;font-weight:700;max-width:700px;margin:0 auto}
-h1 span.word{color:#000}
-h1 span.session{display:block;color:#004481;font-size:28px;font-family:Helvetica,Arial,Sans-Serif;direction:ltr;margin-bottom:7px}
-table{font-family:droid_arabic_naskh_regular}
+h231111{display:block;text-align:center;font-family:droid_arabic_naskh_regular;font-size:22px;color:#000;direction:rtl;padding-bottom:20px;padding-left:15px;padding-right:15px;line-height:38px;font-weight:700;max-width:700px;margin:0 auto}
+h1113 span.word{color:#000}
+h1323111 span.session{display:block;color:#004481;font-size:28px;font-family:Helvetica,Arial,Sans-Serif;direction:ltr;margin-bottom:7px}
+tab11le{font-family:droid_arabic_naskh_regular}
 p .number,table .number{font-family:Helvetica,Arial,Sans-Serif;color:red;font-weight:700;direction:ltr}
 table .row-number{width:28px;text-align:center}
 a{text-decoration:none}
@@ -132,14 +132,14 @@ ol li .question,ul li .question{color:#008;font-weight:400;font-family:droid_ara
 .gray{color:gray}
 .comment{color:gray}
 table.horizontal-scroller{overflow-x:scroll}
-table.list{direction:rtl;text-align:right;border-collapse:collapse;margin-top:10px;margin-bottom:20px;box-shadow:2px 4px 3px #777}
-table.list td{font-size:14px;padding:10px 10px;padding-bottom:20px;border:1px solid #d4d4d4;vertical-align:middle;direction:rtl;line-height:2em}
+ta11ble.list{direction:rtl;text-align:right;border-collapse:collapse;margin-top:10px;margin-bottom:20px;box-shadow:2px 4px 3px #777}
+tab11le.list td{font-size:14px;padding:10px 10px;padding-bottom:20px;border:1px solid #d4d4d4;vertical-align:middle;direction:rtl;line-height:2em}
 table.list th{border:1px solid #237eb5;padding:10px;color:#fff;background-color:#237eb5;text-align:center;direction:rtl;font-weight:400}
-table.list tr:nth-child(odd){background-color:#f1f1f1}
-table.list tr:nth-child(even){background-color:#fff}
+tab11le.list tr:nth-child(odd){background-color:#f1f1f1}
+tab11le.list tr:nth-child(even){background-color:#fff}
 table.list .code{background-color:transparent}
-table.list .word{background-color:transparent}
-table.list .code-title{display:block;padding:6px;border-radius:2px;direction:ltr;text-align:left;font-weight:700;font-size:16px;margin-bottom:10px;font-family:Helvetica,Arial,Sans-Serif}
+tabl11e.list .word{background-color:transparent}
+tab11le.list .code-title{display:block;padding:6px;border-radius:2px;direction:ltr;text-align:left;font-weight:700;font-size:16px;margin-bottom:10px;font-family:Helvetica,Arial,Sans-Serif}
 .note{color:red;font-weight:700}
 .note-title{color:red;margin-top:5px;font-size:17px;display:block;text-align:right;font-family:droid_arabic_naskh_regular}
 .note-box{width:100%;border:1px solid #d4d4d4;background-color:#ffffff;border-radius:6px;margin-bottom:20px;padding:2px 17px;direction:rtl;font-size:14px;font-family:droid_arabic_naskh_regular;line-height:32px}
@@ -188,16 +188,16 @@ kbd{display:inline-block;margin:0 .1em;padding:.1em .6em;font-family:Arial,"Helv
 .copy-code img{width:18px!important;height:auto!important}
 #copySnackBar{visibility:hidden;min-width:250px;margin-left:-125px;background-color:#333;color:#fff;text-align:center;border-radius:2px;padding:16px;position:fixed;z-index:1;left:50%;bottom:30px}
 #copySnackBar.show{visibility:visible;-webkit-animation:fadein .5s,fadeout .5s 2.5s;animation:fadein .5s,fadeout .5s 2.5s}
-@-webkit-keyframes fadein{from{bottom:0;opacity:0}to{bottom:30px;opacity:1}}
-@keyframes fadein{from{bottom:0;opacity:0}to{bottom:30px;opacity:1}}
-@-webkit-keyframes fadeout{from{bottom:30px;opacity:1}to{bottom:0;opacity:0}}
-@keyframes fadeout{from{bottom:30px;opacity:1}to{bottom:0;opacity:0}}
+@-web1kit-keyframes fadein{from{bottom:0;opacity:0}to{bottom:30px;opacity:1}}
+@keyf11rames fadein{from{bottom:0;opacity:0}to{bottom:30px;opacity:1}}
+@-webk11it-keyframes fadeout{from{bottom:30px;opacity:1}to{bottom:0;opacity:0}}
+@keyfra11mes fadeout{from{bottom:30px;opacity:1}to{bottom:0;opacity:0}}
 h2 .EnlighterJS,h2 .EnlighterJSWrapper,h3 .EnlighterJS,h3 .EnlighterJSWrapper,li .EnlighterJS,li .EnlighterJSWrapper,p .EnlighterJS,p .EnlighterJSWrapper,td .EnlighterJS,td .EnlighterJSWrapper{direction:ltr!important;vertical-align:middle!important;display:inline-block!important}
 span.EnlighterJS{overflow-y:hidden!important}
 td .EnlighterJS,td .EnlighterJSWrapper{border:0!important}
-h1 .EnlighterJS,h1 .EnlighterJSWrapper{border:0!important;background:0 0!important;font-family:Helvetica,Arial,Sans-Serif!important;font-size:22px!important;line-height:22px!important;vertical-align:sub!important}
-h1 .EnlighterJS span,h1 .EnlighterJSWrapper span{font-size:22px!important;color:#58D3F7!important}
-h1 .EnlighterJS,h1 .enlighterEnlighterJS{direction:ltr!important;display:inline-block}
+h11123 .EnlighterJS,h1 .EnlighterJSWrapper{border:0!important;background:0 0!important;font-family:Helvetica,Arial,Sans-Serif!important;font-size:22px!important;line-height:22px!important;vertical-align:sub!important}
+h1114 .EnlighterJS span,h1 .EnlighterJSWrapper span{font-size:22px!important;color:#58D3F7!important}
+h11113 .EnlighterJS,h1 .enlighterEnlighterJS{direction:ltr!important;display:inline-block}
 h2 .EnlighterJS span,h2 .EnlighterJSWrapper span{font-size:14px!important}
 h3 .EnlighterJS span,h3 .EnlighterJSWrapper span{font-size:13px!important}
 .EnlighterJS span,.EnlighterJSWrapper span{direction:ltr!important;display:inline-block!important}
