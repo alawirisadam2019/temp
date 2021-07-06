@@ -69,7 +69,7 @@ h231111{display:block;text-align:center;font-family:droid_arabic_naskh_regular;f
 h1113 span.word{color:#000}
 h1323111 span.session{display:block;color:#004481;font-size:28px;font-family:Helvetica,Arial,Sans-Serif;direction:ltr;margin-bottom:7px}
 tab11le{font-family:droid_arabic_naskh_regular}
-p .number,table .number{font-family:Helvetica,Arial,Sans-Serif;color:red;font-weight:700;direction:ltr}
+p .number,tab11le .number{font-family:Helvetica,Arial,Sans-Serif;color:red;font-weight:700;direction:ltr}
 table .row-number{width:28px;text-align:center}
 a{text-decoration:none}
 article p a{text-decoration:underline;font-family:droid_arabic_naskh_regular;-webkit-transition:all .3s;-moz-transition:all .3s;-o-transition:all .3s;transition:all .3s}
@@ -132,14 +132,14 @@ ol li .question,ul li .question{color:#008;font-weight:400;font-family:droid_ara
 .gray{color:gray}
 .comment{color:gray}
 table.horizontal-scroller{overflow-x:scroll}
-ta11ble.list{direction:rtl;text-align:right;border-collapse:collapse;margin-top:10px;margin-bottom:20px;box-shadow:2px 4px 3px #777}
-tab11le.list td{font-size:14px;padding:10px 10px;padding-bottom:20px;border:1px solid #d4d4d4;vertical-align:middle;direction:rtl;line-height:2em}
+table.list{direction:rtl;text-align:right;border-collapse:collapse;margin-top:10px;margin-bottom:20px;box-shadow:2px 4px 3px #777}
+table.list td{font-size:14px;padding:10px 10px;padding-bottom:20px;border:1px solid #d4d4d4;vertical-align:middle;direction:rtl;line-height:2em}
 table.list th{border:1px solid #237eb5;padding:10px;color:#fff;background-color:#237eb5;text-align:center;direction:rtl;font-weight:400}
-tab11le.list tr:nth-child(odd){background-color:#f1f1f1}
-tab11le.list tr:nth-child(even){background-color:#fff}
+table.list tr:nth-child(odd){background-color:#f1f1f1}
+table.list tr:nth-child(even){background-color:#fff}
 table.list .code{background-color:transparent}
-tabl11e.list .word{background-color:transparent}
-tab11le.list .code-title{display:block;padding:6px;border-radius:2px;direction:ltr;text-align:left;font-weight:700;font-size:16px;margin-bottom:10px;font-family:Helvetica,Arial,Sans-Serif}
+table.list .word{background-color:transparent}
+table.list .code-title{display:block;padding:6px;border-radius:2px;direction:ltr;text-align:left;font-weight:700;font-size:16px;margin-bottom:10px;font-family:Helvetica,Arial,Sans-Serif}
 .note{color:red;font-weight:700}
 .note-title{color:red;margin-top:5px;font-size:17px;display:block;text-align:right;font-family:droid_arabic_naskh_regular}
 .note-box{width:100%;border:1px solid #d4d4d4;background-color:#ffffff;border-radius:6px;margin-bottom:20px;padding:2px 17px;direction:rtl;font-size:14px;font-family:droid_arabic_naskh_regular;line-height:32px}
