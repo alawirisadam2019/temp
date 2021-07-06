@@ -82,7 +82,7 @@ video{max-width:90%;height:auto}
 sup{vertical-align:top}
 sub{vertical-align:bottom}
 article{margin-top:1px;margin-bottom:1px;padding:1px 1px 6px 1px;border-bottom:1px solid #e0e0e0}
-article p{font-size:14px;direction:rtl;font-family:droid_arabic_naskh_regular}
+article p{font-size:17px;direction:rtl;font-family:droid_arabic_naskh_regular}
 article p a{color:#00f;text-decoration:underline}
 article p a:hover{color:red;text-decoration:none}
 article .question{color:red}
