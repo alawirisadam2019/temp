@@ -1,13 +1,13 @@
-.opened-menu{background:#000;color:#0ff!important}
+.ope11ned-menu{background:#000;color:#0ff!important}
 #bl11og a,#library{line-height:46px}
 #top_ads{max-width:100%;margin:20px auto;overflow-x:auto;overflow-y:hidden;display:block;text-align:center}
 #conta11iner{visibi11lity:hidden;max-width:1300px;width:100%;margin:0 auto;z-index:1;overflow:hidden;padding-top:50px}
-#side_nav{display:none;direction:rtl;z-index:1000;background-color:#e0e0e0}
-.static-side-nav{display:table-cell;float:right;overflow-y:hidden}
-.sticky-side-nav{position:fixed;top:50px;right:0;overflow-y:auto;border-right:none}
+#side_na11v{display:none;direction:rtl;z-index:1000;background-color:#e0e0e0}
+.stati11c-side-nav{display:table-cell;float:right;overflow-y:hidden}
+.sticky-side11-nav{position:fixed;top:50px;right:0;overflow-y:auto;border-right:none}
 #ma11in{display:table-cell;background:#f1f1f1;float:left;overflow:hidden}
 #bottom_ads{display:block;margin-top:20px;overflow-x:auto;overflow-y:hidden;text-align:center}
-#helper{display:block;width:100%;clear:both}
+#help11er{display:block;width:100%;clear:both}
 #footer{display:block;width:100%;z-index:1;background:#000;clear:both;padding-top:15px;text-align:center}
 #footer .harmash-logo{display:inline-block;max-width:150px;margin-bottom:15px}
 #donate_for_us{text-align:center;margin:15px 8px 19px 8px;border:2px dashed gray;padding:20px 10px 25px 10px;display:inline-block;background:#111}
@@ -37,25 +37,25 @@
 #copy_right_details_en{text-align:center;font-family:Tajawal;color:#939a9d;font-size:15px;line-height:23px;width:90%;max-width:700px;margin:0 auto;direction:ltr;padding-bottom:40px}
 #copy_right_details_en a{display:block;color:orange;direction:ltr}
 #copy_right_logo{margin:22px auto 8px auto;text-align:center}
-#library_box,#search_box{display:none;position:fixed;top:50px;right:0;width:100%;padding:20px 0 40px 0;overflow-y:auto;border-bottom:1px solid #999;background:#f1f1f1;box-shadow:5px 0 40px #000}
-#library_box ul{display:block;max-width:90%;margin:0 auto;list-style-type:none}
-#library_box h3{display:block;max-width:90%;margin:0 auto;font-family:droid_arabic_naskh_regular;clear:both;padding-right:20px;font-size:20px}
-#library_box ul li{display:block;margin:18px 2% 0 2%;float:right;text-align:right;direction:rtl}
-#library_box ul li a{font-size:16px;font-family:droid_arabic_naskh_regular;text-decoration:none;height:50px;line-height:50px;width:100%;border-radius:10px;border:1px dashed #b6b4b4;padding:0 5%;display:block;background:#d8d8d8;color:#424242;overflow:hidden;-webkit-transition:all .3s;-moz-transition:all .3s;-o-transition:all .3s;transition:all .3s}
+#librar11y_box,#search_box{display:none;position:fixed;top:50px;right:0;width:100%;padding:20px 0 40px 0;overflow-y:auto;border-bottom:1px solid #999;background:#f1f1f1;box-shadow:5px 0 40px #000}
+#libra11ry_box ul{display:block;max-width:90%;margin:0 auto;list-style-type:none}
+#library11_box h3{display:block;max-width:90%;margin:0 auto;font-family:droid_arabic_naskh_regular;clear:both;padding-right:20px;font-size:20px}
+#library_bo11x ul li{display:block;margin:18px 2% 0 2%;float:right;text-align:right;direction:rtl}
+#library_b11ox ul li a{font-size:16px;font-family:droid_arabic_naskh_regular;text-decoration:none;height:50px;line-height:50px;width:100%;border-radius:10px;border:1px dashed #b6b4b4;padding:0 5%;display:block;background:#d8d8d8;color:#424242;overflow:hidden;-webkit-transition:all .3s;-moz-transition:all .3s;-o-transition:all .3s;transition:all .3s}
 #library_box ul li a:hover{color:#000;background:#ccc;border:1px solid #b6b4b4}
-#library_box ul li a span{direction:rtl;color:#06f;font-family:droid_arabic_naskh_regular;font-size:22px;padding-left:10px}
-#library_box ul li a img{float:right;padding-left:5px;height:50px}
-#___gcse_0{max-width:400px!important;margin:auto!important}
+#library_box11 ul li a span{direction:rtl;color:#06f;font-family:droid_arabic_naskh_regular;font-size:22px;padding-left:10px}
+#library_box11 ul li a img{float:right;padding-left:5px;height:50px}
+#___gcs11e_0{max-width:400px!important;margin:auto!important}
 /**/
-#side_nav .title{display:block;margin-bottom:1px;font-family:droid_arabic_naskh_regular;height:45px;line-height:45px;font-size:15px;cursor:default;color:#fff;padding-right:14px;background:#545454;border-top-right-radius:5px;border-top-left-radius:25px;border-bottom-right-radius:14px;border-bottom-left-radius:7px;margin-top:6px;margin-bottom:6px}
-#side_nav ul{display:block;list-style-type:none;list-style-position:inside;width:98%;margin:0 auto}
-#side_nav ul li{display:block;color:#000}
-#side_nav ul li img{display:block;margin-top:4px;max-width:100%;height:auto}
-#side_nav ul li a:hover{background-color:#f3f781}
-#side_nav ul li a{display:block;padding:5px 25px 5px 10px;font-family:droid_arabic_naskh_regular;color:#000;font-size:14px;border-radius:8px;text-decoration:none;direction:rtl;text-align:right;background-image:url(images/lesson-arrow-bullet.png);background-repeat:no-repeat;background-position-y:center;background-position-x:256px;-webkit-transition:all .2s;-moz-transition:all .2s;-o-transition:all .2s;transition:all .2s;border-bottom:1px solid #d4d4d4}
+#side_11nav .title{display:block;margin-bottom:1px;font-family:droid_arabic_naskh_regular;height:45px;line-height:45px;font-size:15px;cursor:default;color:#fff;padding-right:14px;background:#545454;border-top-right-radius:5px;border-top-left-radius:25px;border-bottom-right-radius:14px;border-bottom-left-radius:7px;margin-top:6px;margin-bottom:6px}
+#side_na11v ul{display:block;list-style-type:none;list-style-position:inside;width:98%;margin:0 auto}
+#side_na11v ul li{display:block;color:#000}
+#side_na11v ul li img{display:block;margin-top:4px;max-width:100%;height:auto}
+#side_na11v ul li a:hover{background-color:#f3f781}
+#side_na11v ul li a{display:block;padding:5px 25px 5px 10px;font-family:droid_arabic_naskh_regular;color:#000;font-size:14px;border-radius:8px;text-decoration:none;direction:rtl;text-align:right;background-image:url(images/lesson-arrow-bullet.png);background-repeat:no-repeat;background-position-y:center;background-position-x:256px;-webkit-transition:all .2s;-moz-transition:all .2s;-o-transition:all .2s;transition:all .2s;border-bottom:1px solid #d4d4d4}
 .en{font-family:Helvetica,Arial,Sans-Serif}
 .next-and-previous-lessons{display:none;padding:15px;margin:40px auto 20px auto;background:#f1f1f1;overflow:hidden}
-#side_nav ul p{text-align:center;padding-top:20px;font-size:14px;color:#086a87;font-family:droid_arabic_naskh_regular}
+#side_n11av ul p{text-align:center;padding-top:20px;font-size:14px;color:#086a87;font-family:droid_arabic_naskh_regular}
 .
 /*Alawiri saddam3*/
 next-and-previous-lessons a{background:#004481;border-radius:5px;font-size:14px;font-family:droid_arabic_naskh_regular;text-decoration:none;color:#fff;-webkit-transition:all .3s;-moz-transition:all .3s;-o-transition:all .3s;transition:all .3s}
