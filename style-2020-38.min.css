@@ -8,34 +8,34 @@
 #ma11in{display:table-cell;background:#f1f1f1;float:left;overflow:hidden}
 #bottom_ads{display:block;margin-top:20px;overflow-x:auto;overflow-y:hidden;text-align:center}
 #help11er{display:block;width:100%;clear:both}
-#footer{display:block;width:100%;z-index:1;background:#000;clear:both;padding-top:15px;text-align:center}
-#footer .harmash-logo{display:inline-block;max-width:150px;margin-bottom:15px}
-#donate_for_us{text-align:center;margin:15px 8px 19px 8px;border:2px dashed gray;padding:20px 10px 25px 10px;display:inline-block;background:#111}
-#donate_for_us p{padding:0 20px;direction:rtl;text-align:center;font-size:16px;line-height:35px;font-family:droid_arabic_naskh_regular;color:#939a9d}
-#donate_for_us div{margin-top:5px}
-#donate_for_us div a{padding:4px 0;font-size:15px;border-radius:8px;margin:10px 3px 0 3px;-webkit-transition:all .5s;-moz-transition:all .5s;-o-transition:all .5s;transition:all .5s;text-decoration:none;cursor:pointer;color:#fff;border:2px solid #004481;background:#0b2161;min-width:175px;direction:rtl;text-align:center;line-height:30px;font-family:droid_arabic_naskh_regular}
-#toggle_donate_links{display:none}
+#foot11er{display:block;width:100%;z-index:1;background:#fff;clear:both;padding-top:15px;text-align:center}
+#foo11ter .harmash-logo{display:inline-block;max-width:150px;margin-bottom:15px}
+#donat11e_for_us{text-align:center;margin:15px 8px 19px 8px;border:2px dashed gray;padding:20px 10px 25px 10px;display:inline-block;background:#111}
+#donat11e_for_us p{padding:0 20px;direction:rtl;text-align:center;font-size:16px;line-height:35px;font-family:droid_arabic_naskh_regular;color:#939a9d}
+#donate_11for_us div{margin-top:5px}
+#donate_11for_us div a{padding:4px 0;font-size:15px;border-radius:8px;margin:10px 3px 0 3px;-webkit-transition:all .5s;-moz-transition:all .5s;-o-transition:all .5s;transition:all .5s;text-decoration:none;cursor:pointer;color:#fff;border:2px solid #004481;background:#0b2161;min-width:175px;direction:rtl;text-align:center;line-height:30px;font-family:droid_arabic_naskh_regular}
+#toggle_don11ate_links{display:none}
 #donate_for_us a:hover,#donate_for_us span:hover{background:#004481;border:2px solid #004481;box-shadow:0 0 5px #0b2161}
 #patreon_btn,#paypal_btn{display:inline-block}
-.footer-faq{text-align:center;margin-bottom:30px}
-.footer-faq a{color:#e4db1b;text-decoration:none;font-size:15px;font-family:droid_arabic_naskh_regular;-webkit-transition:all .3s;-moz-transition:all .3s;-o-transition:all .3s;transition:all .3s}
-.footer-faq a:hover{color:#ff0}
-#about{display:block;width:90%;max-width:700px;margin:15px auto;direction:rtl;text-align:center;color:#939a9d;font-size:15px;line-height:35px;font-family:droid_arabic_naskh_regular}
-#follow_us{display:block;width:90%;max-width:900px;margin:50px auto 0 auto;direction:rtl;text-align:center;color:#939a9d;line-height:30px;font-family:droid_arabic_naskh_regular}
-#follow_us a{margin:3px}
-#follow_us a img{width:40px;border-radius:50%;-webkit-transition:all .4s;-moz-transition:all .4s;-o-transition:all .4s;transition:all .4s;padding:3px;border:2px solid #f5f5f5}
-#follow_us a img:hover{border:2px solid #424242}
-.facebook{background:#00f}
-.twitter{background:#0080ff}
+.footer-f21aq{text-align:center;margin-bottom:30px}
+.footer-11faq a{color:#e4db1b;text-decoration:none;font-size:15px;font-family:droid_arabic_naskh_regular;-webkit-transition:all .3s;-moz-transition:all .3s;-o-transition:all .3s;transition:all .3s}
+.footer11-faq a:hover{color:#ff0}
+#abou11t{display:block;width:90%;max-width:700px;margin:15px auto;direction:rtl;text-align:center;color:#939a9d;font-size:15px;line-height:35px;font-family:droid_arabic_naskh_regular}
+#follow11_us{display:block;width:90%;max-width:900px;margin:50px auto 0 auto;direction:rtl;text-align:center;color:#939a9d;line-height:30px;font-family:droid_arabic_naskh_regular}
+#follow_11us a{margin:3px}
+#follow_11us a img{width:40px;border-radius:50%;-webkit-transition:all .4s;-moz-transition:all .4s;-o-transition:all .4s;transition:all .4s;padding:3px;border:2px solid #f5f5f5}
+#follow_11us a img:hover{border:2px solid #424242}
+.face11book{background:#00f}
+.twitt11er{background:#0080ff}
 .youtube{background:red}
-.telegram{background:#0040ff}
-#developped_by{display:block;width:100%;text-align:center;font-family:droid_arabic_naskh_regular;padding-bottom:18px;color:#939a9d;font-size:15px;line-height:35px}
-#developped_by a{text-decoration:none;color:#009cff;-webkit-transition:all .3s;-moz-transition:all .3s;-o-transition:all .3s;transition:all .3s}
-#developped_by a:hover{color:#00b7ff}
+.teleg11ram{background:#0040ff}
+#develop11ped_by{display:block;width:100%;text-align:center;font-family:droid_arabic_naskh_regular;padding-bottom:18px;color:#939a9d;font-size:15px;line-height:35px}
+#developp11ed_by a{text-decoration:none;color:#009cff;-webkit-transition:all .3s;-moz-transition:all .3s;-o-transition:all .3s;transition:all .3s}
+#developpe11d_by a:hover{color:#00b7ff}
 #copy_right{display:block;width:100%;line-height:40px;text-align:center;color:#f5f5f5;font-size:15px;font-family:droid_arabic_naskh_regular;margin-top:24px}
-#copy_right_details_ar{text-align:center;font-family:droid_arabic_naskh_regular;color:#939a9d;font-size:15px;line-height:35px;width:90%;max-width:726px;margin:0 auto}
-#copy_right_details_en{text-align:center;font-family:Tajawal;color:#939a9d;font-size:15px;line-height:23px;width:90%;max-width:700px;margin:0 auto;direction:ltr;padding-bottom:40px}
-#copy_right_details_en a{display:block;color:orange;direction:ltr}
+#copy_rig11ht_details_ar{text-align:center;font-family:droid_arabic_naskh_regular;color:#939a9d;font-size:15px;line-height:35px;width:90%;max-width:726px;margin:0 auto}
+#copy_righ11t_details_en{text-align:center;font-family:Tajawal;color:#939a9d;font-size:15px;line-height:23px;width:90%;max-width:700px;margin:0 auto;direction:ltr;padding-bottom:40px}
+#copy_righ11t_details_en a{display:block;color:orange;direction:ltr}
 #copy_right_logo{margin:22px auto 8px auto;text-align:center}
 #librar11y_box,#search_box{display:none;position:fixed;top:50px;right:0;width:100%;padding:20px 0 40px 0;overflow-y:auto;border-bottom:1px solid #999;background:#f1f1f1;box-shadow:5px 0 40px #000}
 #libra11ry_box ul{display:block;max-width:90%;margin:0 auto;list-style-type:none}
