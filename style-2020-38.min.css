@@ -82,7 +82,7 @@ video{max-width:90%;height:auto}
 sup{vertical-align:top}
 sub{vertical-align:bottom}
 article{margin-top:1px;margin-bottom:1px;padding:1px 1px 6px 1px;border-bottom:1px solid #e0e0e0}
-article p{font-size:17px;direction:rtl;font-family:droid_arabic_naskh_regular}
+article p{font-size:15px;direction:rtl;font-family:droid_arabic_naskh_regular}
 article p a{color:#00f;text-decoration:underline}
 article p a:hover{color:red;text-decoration:none}
 article .question{color:red}
@@ -112,12 +112,12 @@ article .cmd-box div{display:block;text-align:left;color:#fff;direction:ltr;back
 .css-file-icon{background:url(https://harmosh/Template/images/css-file.png) no-repeat}
 .example-box .image-box{display:block;background-color:#fff;border:1px solid #bbb;margin-top:5px;border-radius:5px;padding-top:15px;padding-bottom:6px;padding-left:6px;padding-right:6px;text-align:center}
 .example-box .explaining-box{display:block;border:1px solid #bbb;background-color:#f1f1f1;padding:10px;border-radius:5px}
-.example-box ul{direction:rtl;list-style-position:outside;padding-right:15px;color:red}
+.example-box ul{direction:rtl;list-style-position:outside;padding-right:10px;color:red}
 .explain{direction:rtl;list-style-position:outside;padding-right:15px;color:red;line-height:1.8em}
 .explain .word{padding-top:3px}
 article a img{cursor:zoom-in}
-ol.arabic{direction:rtl;list-style:arabic-indic;list-style-position:outside;padding-right:15px;color:red;font-family:droid_arabic_naskh_regular}
-ol ol,ol ul,ul ol,ul ul{padding-right:20px}
+ol.arabic{direction:rtl;list-style:arabic-indic;list-style-position:outside;padding-right:10px;color:red;font-family:droid_arabic_naskh_regular}
+ol ol,ol ul,ul ol,ul ul{padding-right:10px}
 ol li p,ul li p{display:inline;color:#000;font-weight:400;vertical-align:middle;font-family:droid_arabic_naskh_regular}
 ol li .question,ul li .question{color:#008;font-weight:400;font-family:droid_arabic_naskh_regular}
 .white{color:#fff}
@@ -197,7 +197,7 @@ span.EnlighterJS{overflow-y:hidden!important}
 td .EnlighterJS,td .EnlighterJSWrapper{border:0!important}
 h11123 .EnlighterJS,h1 .EnlighterJSWrapper{border:0!important;background:0 0!important;font-family:Helvetica,Arial,Sans-Serif!important;font-size:22px!important;line-height:22px!important;vertical-align:sub!important}
 h1114 .EnlighterJS span,h1 .EnlighterJSWrapper span{font-size:22px!important;color:#58D3F7!important}
-h11113 .EnlighterJS,h1 .enlighterEnlighterJS{direction:ltr!important;display:inline-block}
+h11113 .EnlighterJS,h11 .enlighterEnlighterJS{direction:ltr!important;display:inline-block}
 h2 .EnlighterJS span,h2 .EnlighterJSWrapper span{font-size:14px!important}
 h3 .EnlighterJS span,h3 .EnlighterJSWrapper span{font-size:13px!important}
 .EnlighterJS span,.EnlighterJSWrapper span{direction:ltr!important;display:inline-block!important}
